@@ -1,15 +1,15 @@
 import "./App.css";
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import Navbar from "./components/Navbar";
 import News from "./components/News";
 import { BrowserRouter, Route, Routes, useParams } from "react-router-dom";
 import LoadingBar from "react-top-loading-bar";
-import axios from "axios";
 
 function App() {
   const [progress, setState] = useState(0);
   const apiKey = process.env.REACT_APP_NEWS_API;
-
+  const { cat } = useParams();
+  console.log(cat);
   const setProgress = (progress) => {
     setState(progress);
   };
