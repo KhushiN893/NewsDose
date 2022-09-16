@@ -1,7 +1,7 @@
 {
   "main.css": "/NewsDose/static/css/main.41134591.chunk.css",
-  "main.js": "/NewsDose/static/js/main.935e0cba.chunk.js",
-  "main.js.map": "/NewsDose/static/js/main.935e0cba.chunk.js.map",
+  "main.js": "/NewsDose/static/js/main.33ec4d5e.chunk.js",
+  "main.js.map": "/NewsDose/static/js/main.33ec4d5e.chunk.js.map",
   "static/js/1.5c1e5c88.chunk.js": "/NewsDose/static/js/1.5c1e5c88.chunk.js",
   "static/js/1.5c1e5c88.chunk.js.map": "/NewsDose/static/js/1.5c1e5c88.chunk.js.map",
   "runtime~main.js": "/NewsDose/static/js/runtime~main.39025e93.js",
@@ -10,6 +10,6 @@
   "static/media/error.mp4": "/NewsDose/static/media/error.d7a4b492.mp4",
   "static/css/main.41134591.chunk.css.map": "/NewsDose/static/css/main.41134591.chunk.css.map",
   "index.html": "/NewsDose/index.html",
-  "precache-manifest.c8f01a7eae121ff010325c965081e8c7.js": "/NewsDose/precache-manifest.c8f01a7eae121ff010325c965081e8c7.js",
+  "precache-manifest.497e223205be1f6cb0ae3202d67401bd.js": "/NewsDose/precache-manifest.497e223205be1f6cb0ae3202d67401bd.js",
   "service-worker.js": "/NewsDose/service-worker.js"
 }
